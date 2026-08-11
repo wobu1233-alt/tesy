@@ -63,11 +63,24 @@ if uploaded:
         st.subheader("② Docling (오픈소스 AI)")
         try:
             with st.spinner("Docling 모델 로딩 중... (처음 한 번은 몇 분 걸릴 수 있어요)"):
-                from docling.document_converter import DocumentConverter
-                # st.cache_resource로 감싸서 이후 업로드부터는 모델을 재사용한다
+                from docling.document_converter import DocumentConverter, PdfFormatOption
+                from docling.datamodel.base_models import InputFormat
+                from docling.datamodel.pipeline_options import PdfPipelineOptions, TesseractCliOcrOptions
+
+                # Docling 기본 OCR 엔진(RapidOCR)은 첫 실행 시 모델 파일을
+                # 파이썬 설치 폴더 안에 내려받으려 하는데, Streamlit Cloud처럼
+                # 그 폴더가 읽기 전용인 배포 환경에서는 PermissionError가 난다.
+                # 대신 시스템에 이미 설치돼 있는(packages.txt) Tesseract를
+                # OCR 엔진으로 지정하면 별도 모델 다운로드 없이 바로 동작한다.
                 @st.cache_resource(show_spinner=False)
                 def _get_converter():
-                    return DocumentConverter()
+                    pipeline_options = PdfPipelineOptions()
+                    pipeline_options.ocr_options = TesseractCliOcrOptions(lang=["kor", "eng"])
+                    return DocumentConverter(
+                        format_options={
+                            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
+                        }
+                    )
                 converter = _get_converter()
 
             t = time.time()
