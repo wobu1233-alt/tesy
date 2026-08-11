@@ -1,0 +1,1472 @@
+[
+  {
+    "cas": "100-00-5",
+    "name": "p-니트로클로로벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "100-01-6",
+    "name": "p-니트로아닐린",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "100-37-8",
+    "name": "2-디에틸아미노에탄올",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "100-41-4",
+    "name": "에틸 벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "100-42-5",
+    "name": "스티렌",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "10028-15-6",
+    "name": "오존",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "10035-10-6",
+    "name": "브롬화수소(Hydrogen bromide)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "101-14-4",
+    "name": "4,4'-메틸렌 비스(2-클로로아닐린)",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "101-68-8",
+    "name": "메틸렌 비스(페닐 이소시아네이트)(MDI)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "10102-43-9",
+    "name": "일산화질소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "10102-44-0",
+    "name": "이산화질소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "106-89-8",
+    "name": "에피클로로히드린",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "106-92-3",
+    "name": "알릴 글리시딜 에테르(Allyl glycidyl ether)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "106-94-5",
+    "name": "1-브로모프로판",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "106-99-0",
+    "name": "1,3-부타디엔",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "107-06-2",
+    "name": "1,2-디클로로에탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "107-07-3",
+    "name": "에틸렌 클로로히드린",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "107-13-1",
+    "name": "아크릴로니트릴",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "107-21-1",
+    "name": "에틸렌 글리콜",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "107-30-2",
+    "name": "클로로메틸 메틸 에테르",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "108-05-4",
+    "name": "비닐 아세테이트(Vinyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "108-10-1",
+    "name": "메틸 이소부틸 케톤(MIBK)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-21-4",
+    "name": "이소프로필 아세테이트(Isopropyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "108-24-7",
+    "name": "무수 초산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-31-6",
+    "name": "무수 말레산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-83-8",
+    "name": "디이소부틸케톤",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-88-3",
+    "name": "톨루엔",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-90-7",
+    "name": "클로로벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-93-0",
+    "name": "시클로헥사놀",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-94-1",
+    "name": "시클로헥사논",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "108-95-2",
+    "name": "페놀",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "109-60-4",
+    "name": "n-프로필 아세테이트(n-Propyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "109-86-4",
+    "name": "2-메톡시에탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "109-89-7",
+    "name": "디에틸아민(Diethylamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "109-99-9",
+    "name": "테트라히드로푸란",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-19-0",
+    "name": "이소부틸 아세테이트(Isobutyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "110-43-0",
+    "name": "메틸 n-아밀 케톤",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-49-6",
+    "name": "2-메톡시에틸 아세테이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-54-3",
+    "name": "n-헥산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-80-5",
+    "name": "2-에톡시에탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-82-7",
+    "name": "시클로헥산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-83-8",
+    "name": "시클로헥센",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "110-86-1",
+    "name": "피리딘",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "111-15-9",
+    "name": "2-에톡시에틸 아세테이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "111-30-8",
+    "name": "글루타르알데히드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "111-40-0",
+    "name": "디에틸렌트리아민",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "111-42-2",
+    "name": "디에탄올아민(Diethanolamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "111-76-2",
+    "name": "2-부톡시에탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "112-07-2",
+    "name": "2-부톡시에틸 아세테이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "119-90-4",
+    "name": "디아니시딘 및 그 염",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "119-93-7",
+    "name": "o-톨리딘 및 그 염",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "12001-26-2",
+    "name": "운모(Mica)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "12035-72-2",
+    "name": "황화니켈류",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "121-44-8",
+    "name": "트리에틸아민(Triethylamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "121-69-7",
+    "name": "N,N-디메틸아닐린",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "123-31-9",
+    "name": "p-디히드록시벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "123-51-3",
+    "name": "이소아밀 알코올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "123-86-4",
+    "name": "n-부틸 아세테이트(n-Butyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "123-91-1",
+    "name": "1,4-디옥산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "123-92-2",
+    "name": "이소아밀 아세테이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "124-40-3",
+    "name": "디메틸아민(Dimethylamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "127-18-4",
+    "name": "퍼클로로에틸렌",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "127-19-5",
+    "name": "N,N-디메틸아세트아미드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1302-93-8",
+    "name": "뮬라이트(Mullite, Al6O5(SiO4)2)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "안전보건공단 화학물질정보(msds.kosha.or.kr) 통합검색 확인: 작업환경측정 대상. 결정체 산화규소 함유 혼합물 규정 적용 가능성 있음(MSDS 자체 15번 항목은 자료없음)"
+  },
+  {
+    "cas": "1309-37-1",
+    "name": "산화철",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1309-48-4",
+    "name": "산화마그네슘(Magnesium oxide)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "1310-58-3",
+    "name": "수산화 칼륨(KOH)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "1310-73-2",
+    "name": "수산화 나트륨(NaOH)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "1314-13-2",
+    "name": "산화아연",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1314-62-1",
+    "name": "오산화바나듐",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1319-77-3",
+    "name": "크레졸",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1327-53-3",
+    "name": "삼산화비소",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "1330-20-7",
+    "name": "크실렌",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1332-21-4",
+    "name": "석면 분진(Asbestos)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "134-32-7",
+    "name": "알파-나프틸아민 및 그 염",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "1344-28-1",
+    "name": "산화 알루미늄(Aluminum oxide)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "MINRO-AL RAM A29 MSDS 15번 항목: 작업환경측정물질(6개월)/특수건강진단물질(12개월)"
+  },
+  {
+    "cas": "13463-39-3",
+    "name": "니켈 카르보닐",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "13463-67-7",
+    "name": "이산화티타늄(Titanium dioxide)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "13530-65-9",
+    "name": "크롬산 아연",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "140-88-5",
+    "name": "에틸 아크릴레이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "141-43-5",
+    "name": "에탄올아민(Ethanolamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "141-78-6",
+    "name": "에틸 아세테이트(초산에틸)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "142-82-5",
+    "name": "n-헵탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "143-33-9",
+    "name": "시안화 나트륨",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "14464-46-1",
+    "name": "크리스토발라이트(Cristobalite)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "14807-96-6",
+    "name": "소우프스톤/활석(Soapstone/Talc)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "14808-60-7",
+    "name": "산화규소(결정체 석영, Quartz)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "MINRO-AL RAM A29 MSDS 15번 항목: 작업환경측정물질(6개월)/특수건강진단물질(24개월); 별표21/22 공통 등재"
+  },
+  {
+    "cas": "151-50-8",
+    "name": "시안화 칼륨",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "151-56-4",
+    "name": "에틸렌이민",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "15468-32-3",
+    "name": "트리디마이트(Trydimite)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "1717-00-6",
+    "name": "1,1-디클로로-1-플루오로에탄",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "25321-14-6",
+    "name": "디니트로톨루엔",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "25639-42-3",
+    "name": "메틸시클로헥사놀",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "302-01-2",
+    "name": "히드라진",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "409-21-2",
+    "name": "실리콘 카바이드(Silicon carbide)",
+    "workEnv": false,
+    "specialExam": false,
+    "note": "MSDS 15번 항목: 노출기준설정물질만 해당, 섬유상 물질은 발암성 1B"
+  },
+  {
+    "cas": "492-80-8",
+    "name": "아우라민",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "50-00-0",
+    "name": "포름알데히드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "53469-21-9",
+    "name": "염소화비페닐(PCB)",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "540-59-0",
+    "name": "1,2-디클로로에틸렌",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "542-88-1",
+    "name": "비스(클로로메틸) 에테르",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "55-63-0",
+    "name": "니트로글리세린",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "556-52-5",
+    "name": "2,3-에폭시-1-프로판올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "56-23-5",
+    "name": "사염화탄소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "569-61-9",
+    "name": "마젠타(Magenta)",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "57-57-8",
+    "name": "베타-프로피오락톤",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "583-60-8",
+    "name": "o-메틸시클로헥사논",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "584-84-9",
+    "name": "톨루엔-2,4-디이소시아네이트(TDI)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "591-78-6",
+    "name": "메틸 n-부틸 케톤",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "592-01-8",
+    "name": "시안화 칼슘(Calcium cyanide)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "60-11-7",
+    "name": "p-디메틸아미노아조벤젠",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "60-29-7",
+    "name": "디에틸 에테르",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "60676-86-0",
+    "name": "실리카, 무정형 용해된(Amorphous fused silica)",
+    "workEnv": false,
+    "specialExam": false,
+    "note": "MSDS 15번 항목: 노출기준설정물질만 해당"
+  },
+  {
+    "cas": "62-53-3",
+    "name": "아닐린 및 그 동족체",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "628-96-6",
+    "name": "에틸렌 글리콜 디니트레이트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "630-08-0",
+    "name": "일산화탄소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "64-18-6",
+    "name": "개미산(Formic acid)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "64-19-7",
+    "name": "초산(Acetic acid)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "65996-93-2",
+    "name": "콜타르피치 휘발물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "65997-15-1",
+    "name": "포틀랜드 시멘트(Portland cement)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "67-56-1",
+    "name": "메탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "67-63-0",
+    "name": "이소프로필 알코올(IPA)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "67-64-1",
+    "name": "아세톤",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "67-66-3",
+    "name": "트리클로로메탄(클로로포름)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "68-12-2",
+    "name": "디메틸포름아미드(DMF)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "71-36-3",
+    "name": "n-부탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "71-43-2",
+    "name": "벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "71-55-6",
+    "name": "메틸 클로로포름",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "74-83-9",
+    "name": "브롬화 메틸",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "74-87-3",
+    "name": "메틸 클로라이드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "74-88-4",
+    "name": "요오드화 메틸",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "74-89-5",
+    "name": "메틸 아민(Methyl amine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "74-90-8",
+    "name": "시안화 수소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7429-90-5",
+    "name": "알루미늄 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7439-92-1",
+    "name": "납 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7439-96-5",
+    "name": "망간 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7439-97-6",
+    "name": "수은 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-02-0",
+    "name": "니켈 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-06-4",
+    "name": "백금(Platinum) 및 그 가용성 염",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7440-22-4",
+    "name": "은(Silver) 및 그 가용성 화합물",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7440-31-5",
+    "name": "주석 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-33-7",
+    "name": "텅스텐 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-36-0",
+    "name": "안티몬 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-38-2",
+    "name": "비소 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-39-3",
+    "name": "바륨(Barium) 및 그 가용성 화합물",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7440-41-7",
+    "name": "베릴륨 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-43-9",
+    "name": "카드뮴 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-47-3",
+    "name": "크롬 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-48-4",
+    "name": "코발트 및 그 무기화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-50-8",
+    "name": "구리",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-67-7",
+    "name": "지르코늄 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7440-74-6",
+    "name": "인듐 및 그 화합물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7446-09-5",
+    "name": "이산화황",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-01-4",
+    "name": "염화비닐",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-04-7",
+    "name": "에틸아민(Ethylamine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "75-05-8",
+    "name": "아세토니트릴",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-07-0",
+    "name": "아세트알데히드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-09-2",
+    "name": "디클로로메탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-15-0",
+    "name": "이황화탄소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-21-8",
+    "name": "산화에틸렌",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-26-3",
+    "name": "2-브로모프로판",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-43-4",
+    "name": "디클로로플루오로메탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-44-5",
+    "name": "포스겐",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-52-5",
+    "name": "니트로메탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "75-55-8",
+    "name": "프로필렌이민(Propyleneimine)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "75-56-9",
+    "name": "1,2-에폭시프로판(1,2-Epoxypropane)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7553-56-2",
+    "name": "요오드 및 요오드화물",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "76-03-9",
+    "name": "트리클로로아세트산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7647-01-0",
+    "name": "염화수소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7664-38-2",
+    "name": "인산(Phosphoric acid)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7664-39-3",
+    "name": "불화수소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7664-41-7",
+    "name": "암모니아(Ammonia)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7664-93-9",
+    "name": "황산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7697-37-2",
+    "name": "질산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "77-78-1",
+    "name": "황산 디메틸",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7722-84-1",
+    "name": "과산화수소(Hydrogen peroxide)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7726-95-6",
+    "name": "브롬",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7782-41-4",
+    "name": "불소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7782-42-5",
+    "name": "흑연(Graphite)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7782-49-2",
+    "name": "셀레늄(Selenium) 및 그 화합물",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "7782-50-5",
+    "name": "염소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7783-06-4",
+    "name": "황화수소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7784-42-1",
+    "name": "삼수소화 비소",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "78-00-2",
+    "name": "사알킬납",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "78-83-1",
+    "name": "이소부틸 알코올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "78-87-5",
+    "name": "1,2-디클로로프로판",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "78-92-2",
+    "name": "2-부탄올",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "78-93-3",
+    "name": "메틸 에틸 케톤(MEK)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "7803-51-2",
+    "name": "포스핀",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "79-00-5",
+    "name": "1,1,2-트리클로로에탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "79-01-6",
+    "name": "트리클로로에틸렌(TCE)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "79-06-1",
+    "name": "아크릴아미드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "79-10-7",
+    "name": "아크릴산(Acrylic acid)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "79-20-9",
+    "name": "메틸 아세테이트(Methyl acetate)",
+    "workEnv": true,
+    "specialExam": false,
+    "note": "별표21"
+  },
+  {
+    "cas": "79-34-5",
+    "name": "1,1,2,2-테트라클로로에탄",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "8006-61-9",
+    "name": "가솔린(Gasoline)",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "8006-64-2",
+    "name": "테레빈유",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "8007-45-2",
+    "name": "콜타르(Coal tar)",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "8052-41-3",
+    "name": "스토다드 솔벤트",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "822-06-0",
+    "name": "헥사메틸렌 디이소시아네이트(HDI)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "85-44-9",
+    "name": "무수 프탈산",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "87-86-5",
+    "name": "펜타클로로페놀",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "91-08-7",
+    "name": "톨루엔-2,6-디이소시아네이트(TDI)",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "91-15-6",
+    "name": "o-프탈로디니트릴",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "91-59-8",
+    "name": "베타-나프틸아민",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "91-94-1",
+    "name": "디클로로벤지딘 및 그 염",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "92-87-5",
+    "name": "벤지딘 및 그 염",
+    "workEnv": false,
+    "specialExam": true,
+    "note": "별표22"
+  },
+  {
+    "cas": "95-50-1",
+    "name": "o-디클로로벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "96-18-4",
+    "name": "1,2,3-트리클로로프로판",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "98-07-7",
+    "name": "벤조트리클로라이드",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  },
+  {
+    "cas": "98-95-3",
+    "name": "니트로벤젠",
+    "workEnv": true,
+    "specialExam": true,
+    "note": "별표21/별표22"
+  }
+]
